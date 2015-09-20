@@ -1,5 +1,5 @@
 {
-    "name": "seyfer/kohana-pagination",
+    "name": "tscms/pagination",
     "version": "3.3",
     "type": "kohana-module",
     "description": "Kohana module to manage pagination quick and easy",
